@@ -16,7 +16,7 @@ description: 详细介绍注意力机制的发展史。
 
 ![Attention&#x7684;&#x672C;&#x8D28;](.gitbook/assets/attention1.txt)
 
-An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is com- puted as a weighted sum of the values, where the weight assigned to each value is com- puted by a compatibility function of the query with the corresponding key.
+An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.
 
 **Attention机制的本质：**将Source中的构成元素想象成是由一系列的数据对 $$<key,value>$$ 构成，此时给定Target中的某个元素Query，通过计算Query和各个Key的**相似性或者相关性**，得到每个Key对应Value的权重系数，然后对Value进行加权求和，即得到了最终的Attention数值。所以本质上Attention机制是对Source中元素的Value值进行加权求和，而Query和Key用来计算对应Value的权重系数。即可以将其本质思想改写为如下公式： 
 
@@ -46,7 +46,7 @@ Attention的具体计算过程如下：
 
 ### 2，注意力的用处
 
-注意力使得能够估计输入元素的相关性以及将所述元素组合成紧凑表示：context vecor，其浓缩了最相关元素的特征，相比于原始输入，它参数少了很多，较少了计算资源的消耗。
+注意力使得能够估计输入元素的相关性以及将所述元素组合成紧凑表示：context vecor，其浓缩了最相关元素的特征，相比于原始输入，它参数少了很多，减少了计算资源的消耗。
 
 * 对于文本分类，只有**K**而没有**q**，此时注意力机制可以看作是将输入编码为紧凑形式的工具;
 * 对于文本序列生成任务，如机器翻译，注意力机制可以充分利用输入序列的动态表示，而不用将输入序列只编码为一个单一表示，即它可以生成一个元素上下文依赖的表示；
