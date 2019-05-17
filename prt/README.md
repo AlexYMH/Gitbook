@@ -11,6 +11,7 @@ description: 详细介绍NLP预训练的各个发展阶段，主要就是context
 * **ULM-Fit**
 * **BERT**
 * **GPT2.0**
+* **MASS**
 
 **这些模型出现的主要原因在于：普通的word embedding无法区分一个多义词的不同语义，即它没有将一个多义词的不同语义分别编码。**
 
