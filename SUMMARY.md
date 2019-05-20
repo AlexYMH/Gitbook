@@ -21,6 +21,6 @@
 * [五，智能对话与智能问答](ds-qa/README.md)
   * [智能对话](ds-qa/ds/README.md)
     * [任务型对话系统综述](ds-qa/ds/task-ds.md)
-    * [闲聊机器人](ds-qa/ds/chatbot.md)
+    * [闲聊机器人综述](ds-qa/ds/chatbot.md)
   * [智能问答](ds-qa/qa.md)
 
