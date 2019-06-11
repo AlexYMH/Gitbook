@@ -85,7 +85,7 @@ $$
 
 ### 5，**Position-wise Feed-Forward network**
 
-Position-wise意味着是按位置依次进行FFN的。FFN如下：
+Position-wise意味着是**按位置**依次进行FFN的。FFN如下：
 
 $$
 FFN(x)=Relu(xW_1+b)W_2+b
