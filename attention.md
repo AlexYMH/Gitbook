@@ -55,6 +55,8 @@ Attention的具体计算过程如下：
 
 ### 3，注意力机制的各个部分
 
+**3.1** **Scoring function**
+
 在第一阶段计算Query和Key的**相似性或者相关性分数**的时候，可以引入不同的函数和计算机制。如下图所示：
 
 ![](.gitbook/assets/energy-function.png)
