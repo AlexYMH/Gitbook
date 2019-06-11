@@ -81,6 +81,8 @@ $$
 
 ### 4，Layer normalization
 
+见csdn博客[https://blog.csdn.net/h2026966427/article/details/90513078](https://blog.csdn.net/h2026966427/article/details/90513078)
+
 ### 5，**Position-wise Feed-Forward network**
 
 Position-wise意味着是按位置依次进行FFN的。FFN如下：
