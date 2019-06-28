@@ -27,7 +27,7 @@
 ## Tensorflow
 
 * [一，TensorFlow基础](tensorflow/tensorflow-basic.md)
-* [二，TensorFlow高级](tensorflow/tensorflow-adcanced.md)
+* [二，TensorFlow高级](tensorflow/tensorflow-advanced.md)
 
 ## PyTorch
 
