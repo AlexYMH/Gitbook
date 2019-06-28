@@ -24,3 +24,13 @@
     * [闲聊机器人综述](ds-qa/ds/chatbot.md)
   * [智能问答](ds-qa/qa.md)
 
+## Tensorflow
+
+* [一，TensorFlow基础](tensorflow/tensorflow-basic.md)
+* [二，TensorFlow高级](tensorflow/tensorflow-adcanced.md)
+
+## PyTorch
+
+* [一，PyTorch基础](pytorch/pytorch-basic.md)
+* [二，PyTorch高级](pytorch/pytorch-advanced.md)
+
