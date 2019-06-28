@@ -26,7 +26,8 @@
 
 ## Tensorflow
 
-* [一，TensorFlow基础](tensorflow/tensorflow-basic.md)
+* [一，TensorFlow基础](tensorflow/tensorflow-basic/README.md)
+  * [tf.ConfigProto\(\)](tensorflow/tensorflow-basic/tf.configproto.md)
 * [二，TensorFlow高级](tensorflow/tensorflow-advanced.md)
 
 ## PyTorch
