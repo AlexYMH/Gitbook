@@ -28,6 +28,7 @@
 
 * [一，TensorFlow基础](tensorflow/tensorflow-basic/README.md)
   * [tf.ConfigProto\(\)](tensorflow/tensorflow-basic/tf.configproto.md)
+  * [TensorFlow模型的保存与恢复](tensorflow/tensorflow-basic/save-restore.md)
 * [二，TensorFlow高级](tensorflow/tensorflow-advanced.md)
 
 ## PyTorch
