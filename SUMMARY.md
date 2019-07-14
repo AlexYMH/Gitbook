@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DL4NLP Notebook](README.md)
+* [DL4NLP](README.md)
 * [一，词向量发展史](word-embedding/README.md)
   * [Word2Vec](word-embedding/word2vec.md)
   * [GloVe](word-embedding/glove.md)

@@ -2,7 +2,7 @@
 description: 总结DL4NLP比较重要的模型、框架、知识点。
 ---
 
-# DL4NLP Notebook
+# DL4NLP
 
 **笔者：**闫明辉
 
@@ -12,7 +12,7 @@ description: 总结DL4NLP比较重要的模型、框架、知识点。
 
 **CSDN Blog：**[https://blog.csdn.net/h2026966427](https://blog.csdn.net/h2026966427)\*\*\*\*
 
-**该笔记本会持续更新，主要是将最新的通用的比较好的DL4NLP资料进行全面的总结！参考资料在文中都有链接~**
+**该博客网站会持续更新，主要是将最新的通用的比较好的DL4NLP资料进行全面的总结！参考资料在文中都有链接~**
 
 ![](.gitbook/assets/lv-gu-1.jpg)
 
