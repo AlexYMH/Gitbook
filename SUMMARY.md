@@ -31,7 +31,8 @@
   * [tf.ConfigProto\(\)](tensorflow/tensorflow-basic/tf.configproto.md)
   * [TensorFlow模型的保存与恢复](tensorflow/tensorflow-basic/save-restore.md)
   * [structure your model smartly](tensorflow/tensorflow-basic/structure-your-model-smartly.md)
-* [二，TensorFlow高级](tensorflow/tensorflow-advanced.md)
+* [二，TensorFlow高级](tensorflow/tensorflow-advanced/README.md)
+  * [tf.data + tf.estimator](tensorflow/tensorflow-advanced/tf.data-+-tf.estimator.md)
 
 ## PyTorch
 
