@@ -2,7 +2,7 @@
 description: 高效训练
 ---
 
-# tf.data + tf.estimator
+# TF.data + TF.estimator
 
 {% embed url="https://developers.googleblog.com/2017/09/introducing-tensorflow-datasets.html" %}
 

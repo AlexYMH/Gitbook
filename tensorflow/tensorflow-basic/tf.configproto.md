@@ -1,4 +1,4 @@
-# tf.ConfigProto\(\)
+# TF.ConfigProto\(\)
 
 **tensorflow中使用tf.ConfigProto\(\)配置Session运行参数&&GPU设备指定。**
 
