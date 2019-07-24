@@ -27,7 +27,7 @@
 ## Tensorflow
 
 * [一，TensorFlow基础](tensorflow/tensorflow-basic/README.md)
-  * [TF basic](tensorflow/tensorflow-basic/tf-basic.md)
+  * [TF Basic](tensorflow/tensorflow-basic/tf-basic.md)
   * [TF.ConfigProto\(\)](tensorflow/tensorflow-basic/tf.configproto.md)
   * [TensorFlow模型的保存与恢复](tensorflow/tensorflow-basic/save-restore.md)
   * [Structure your model smartly](tensorflow/tensorflow-basic/structure-your-model-smartly.md)
