@@ -112,9 +112,11 @@ Word2Vec之所以这么出名，主要是因为：
 
 ## 参考
 
-\[Word2Vec的数学原理详解\]\([https://www.cnblogs.com/peghoty/p/3857839.html](https://www.cnblogs.com/peghoty/p/3857839.html)
+\[Word2Vec的数学原理详解\] [https://www.cnblogs.com/peghoty/p/3857839.html](https://www.cnblogs.com/peghoty/p/3857839.html)
 
-\[知乎\][https://zhuanlan.zhihu.com/p/26306795](https://zhuanlan.zhihu.com/p/26306795)
+\[Softmax近似方法总结\] [http://ruder.io/word-embeddings-softmax/](http://ruder.io/word-embeddings-softmax/) 
+
+\[知乎\] [https://zhuanlan.zhihu.com/p/26306795](https://zhuanlan.zhihu.com/p/26306795)
 
 {% file src="../.gitbook/assets/word2vec-parameter-learning-explained.pdf" caption="非常详细的一篇解释性论文" %}
 
