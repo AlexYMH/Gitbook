@@ -120,7 +120,7 @@ Word2Vec之所以这么出名，主要是因为：
 
 {% file src="../.gitbook/assets/word2vec-parameter-learning-explained.pdf" caption="非常详细的一篇解释性论文" %}
 
-
+{% file src="../.gitbook/assets/nce\_notes.pdf" caption="NCE & Negative Sampling" %}
 
 
 
