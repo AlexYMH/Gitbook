@@ -18,6 +18,7 @@
   * [Bert](prt/bert.md)
   * [MT-DNN和GPT2.0](prt/gpt2.0.md)
   * [MASS](prt/mass.md)
+  * [XLNet](prt/xlnet.md)
 * [五，智能对话与智能问答](ds-qa/README.md)
   * [智能对话](ds-qa/ds/README.md)
     * [任务型对话系统综述](ds-qa/ds/task-ds.md)
