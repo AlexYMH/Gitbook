@@ -123,6 +123,12 @@ Which vector works best as a contextualized embedding? I would think it depends 
 
 ![](../.gitbook/assets/bert-feature-extraction-contextualized-embeddings.png)
 
+## Bert的应用
+
+{% embed url="https://zhuanlan.zhihu.com/p/65470719" %}
+
+{% embed url="https://zhuanlan.zhihu.com/p/68446772" %}
+
 ## 总结
 
 ### 1，Bert的评价与意义
