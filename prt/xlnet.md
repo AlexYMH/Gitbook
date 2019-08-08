@@ -1,12 +1,26 @@
 ---
 description: >-
   paper: "XLNet: Generalized Autoregressive Pretraining for Language
-  Understanding"
+  Understanding"，整理引用的两位大佬的博客。
 ---
 
 # XLNet
 
 XLNet和Bert比，有什么异同？有什么模型方面的改进？在哪些场景下特别有效？原因又是什么？本文通过论文思想解读及实验结果分析，试图回答上述问题。
+
+## XLNet的优势
+
+* **排列语言模型PLM**
+* **Two-Stream Self-Attention for Target-Aware Representations**
+  * 没有目标\(target\)位置信息的问题
+  * Two-Stream Self-Attention
+* **部分预测**
+* **融入Transformer-XL的优点**
+  * Segment基本的状态重用
+  * Transformer-XL的相对位置编码
+  * 在XLNet里融入Transformer-XL的思想
+* **建模多个segment**
+  * 相对Segment编码
 
 ## XLNet Motivation
 
