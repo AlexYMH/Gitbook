@@ -14,7 +14,7 @@ XLNet和Bert比，有什么异同？有什么模型方面的改进？在哪些�
 * **Two-Stream Self-Attention for Target-Aware Representations**
   * 没有目标\(target\)位置信息的问题
   * Two-Stream Self-Attention
-* **部分预测**
+* **部分预测减少计算量**
 * **融入Transformer-XL的优点**
   * Segment基本的状态重用
   * Transformer-XL的相对位置编码
@@ -138,6 +138,8 @@ XLNet其实本质上还是ELMO／GPT／Bert这一系列两阶段模型的进一�
 **第二点，对于生成类的NLP任务，**到目前为止，尽管出了一些改进模型，但是从效果看，Bert仍然不能很好地处理。而因为XLNet的预训练模式天然符合下游任务序列生成结果，所以按理说能够直接通过引入XLNet来改进生成类NLP任务的效果。所以，这点估计是XLNet会明显占优势的一个领域。
 
 可以预计的是，很快我们就会看到XLNet在文本摘要，机器翻译，信息检索…..等符合上述XLNet应用领域特点和优势领域的应用结果，以及在这些任务上的进一步改进模型。
+
+## 具体细节可以看这个博客
 
 {% embed url="https://mp.weixin.qq.com/s/2zuR0x-Cb1NTeRHYeTjrHQ" %}
 
