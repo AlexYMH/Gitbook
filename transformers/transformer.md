@@ -19,7 +19,7 @@ Transformer是第一个完全依靠self-attention来计算它的输入序列和�
 * **Residual connection or Skip connection\(残差连接\)**
 * **Layer normalization**
 * **Position-wise Feed-Forward network**
-* **Regularization**
+* **Training tricks**
 
 ### 1，Multi-head self-attention
 
@@ -91,8 +91,21 @@ $$
 FFN(x)=Relu(xW_1+b)W_2+b
 $$
 
-### 6，Regularization
+### 6，Training tricks
+
+#### \(1\)斜三角学习率
+
+* 先warmup
+* 学习率先增后降
+* 学习率变化如下：
+
+$$lrate = d_{model}^{-0.5} \cdot min(step\_num^{-0.5},step\_num \cdot warmup\_steps^{-1.5} )$$ 
+
+其中warmup\_steps=4000。
+
+#### （2）三种Regularization
 
 * Residual dropout
+* 输入嵌入加和后的dropout
 * label smoothing
 
