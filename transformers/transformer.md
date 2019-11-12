@@ -103,9 +103,22 @@ $$lrate = d_{model}^{-0.5} \cdot min(step\_num^{-0.5},step\_num \cdot warmup\_st
 
 其中warmup\_steps=4000。
 
-#### （2）三种Regularization
+#### \(2\)三种Regularization
 
 * Residual dropout
 * 输入嵌入加和后的dropout
 * label smoothing
+
+#### \(3\)其他
+
+* checkpoint averaging
+* beam search：beam size=4
+* length penalty
+
+## Fulture
+
+* more attention-based models
+* local、restricted attention mechanism
+
+
 
