@@ -44,7 +44,6 @@
 ## KERAS
 
 * [一，Keras基础](keras/yi-keras-ji-chu/README.md)
-  * [Keras as part of TensorFlow](keras/yi-keras-ji-chu/keras-as-part-of-tensorflow.md)
   * [Keras as part of TensorFlow](keras/yi-keras-ji-chu/keras-as-part-of-tensorflow-1.md)
 * [二，Keras高级](keras/er-keras-gao-ji.md)
 
