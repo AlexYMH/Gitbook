@@ -20,10 +20,6 @@
   * [MASS](prt/mass.md)
   * [XLNet](prt/xlnet.md)
   * [NLP这两年：15个预训练模型对比分析与剖析](prt/nlp-zhe-liang-nian-15-ge-yu-xun-lian-mo-xing-dui-bi-fen-xi-yu-pou-xi.md)
-* [五，智能对话与智能问答](ds-qa/README.md)
-  * [智能对话](ds-qa/ds/README.md)
-    * [对话系统综述](ds-qa/ds/task-ds.md)
-  * [智能问答](ds-qa/qa.md)
 
 ## Tensorflow
 
