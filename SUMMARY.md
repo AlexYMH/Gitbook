@@ -1,16 +1,16 @@
 # Table of contents
 
 * [DL4NLP](README.md)
-* [一，词向量发展史](word-embedding/README.md)
+* [词向量发展史](word-embedding/README.md)
   * [Word2Vec](word-embedding/word2vec.md)
   * [GloVe](word-embedding/glove.md)
   * [FastText](word-embedding/fasttext.md)
   * [Paragraph2Vec\(又称doc2vec\)](word-embedding/paragraph-vector.md)
-* [二，注意力机制发展史](attention.md)
-* [三，Transformer及其应用](transformers/README.md)
+* [注意力机制发展史](attention.md)
+* [Transformer及其应用](transformers/README.md)
   * [Transformer](transformers/transformer.md)
   * [Transformer与CNN、RNN的比较](transformers/transformer-cnn-rnn.md)
-* [四，NLP预训练发展史](prt/README.md)
+* [NLP预训练发展史](prt/README.md)
   * [预训练](prt/pre-training.md)
   * [ELMo](prt/elmo.md)
   * [ULM-Fit](prt/ulm-fit.md)
@@ -23,24 +23,24 @@
 
 ## Tensorflow
 
-* [一，TensorFlow基础](tensorflow/tensorflow-basic/README.md)
+* [TensorFlow基础](tensorflow/tensorflow-basic/README.md)
   * [TF Basic](tensorflow/tensorflow-basic/tf-basic.md)
   * [TF.ConfigProto\(\)](tensorflow/tensorflow-basic/tf.configproto.md)
   * [TensorFlow模型的保存与恢复](tensorflow/tensorflow-basic/save-restore.md)
   * [Structure your model smartly](tensorflow/tensorflow-basic/structure-your-model-smartly.md)
-* [二，TensorFlow高级](tensorflow/tensorflow-advanced/README.md)
+* [TensorFlow高级](tensorflow/tensorflow-advanced/README.md)
   * [Intro Eager Execution](tensorflow/tensorflow-advanced/intro-eager-execution.md)
   * [TF.data + TF.estimator](tensorflow/tensorflow-advanced/tf.data-+-tf.estimator.md)
 
-## PyTorch
-
-* [一，PyTorch基础](pytorch/pytorch-basic.md)
-* [二，PyTorch高级](pytorch/pytorch-advanced.md)
-
 ## KERAS
 
-* [一，Keras基础](keras/yi-keras-ji-chu/README.md)
+* [Keras基础](keras/yi-keras-ji-chu/README.md)
   * [Keras as part of TensorFlow](keras/yi-keras-ji-chu/keras-as-part-of-tensorflow-1.md)
-* [二，Keras高级](keras/er-keras-gao-ji.md)
+* [Keras高级](keras/er-keras-gao-ji/README.md)
   * [Keras源码分析](keras/er-keras-gao-ji/keras-yuan-ma-fen-xi.md)
+
+## PyTorch
+
+* [PyTorch基础](pytorch/pytorch-basic.md)
+* [PyTorch高级](pytorch/pytorch-advanced.md)
 

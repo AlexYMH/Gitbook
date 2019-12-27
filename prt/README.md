@@ -2,7 +2,7 @@
 description: 详细介绍NLP预训练的各个发展阶段，主要就是contextlizated word embedding的发展。
 ---
 
-# 四，NLP预训练发展史
+# NLP预训练发展史
 
 **Contextualized Word Embedding:**
 

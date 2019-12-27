@@ -1,7 +1,7 @@
 ---
 description: >-
   BERT全称“Bidirectional Encoder Representations from Transformers”，Paper：“BERT:
-  Pre-training of Deep Bidirectional Transformers for Language”  整理自张俊林老师的总结。
+  Pre-training of Deep Bidirectional Transformers for Language”
 ---
 
 # Bert
