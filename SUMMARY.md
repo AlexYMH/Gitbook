@@ -20,6 +20,7 @@
   * [MASS](prt/mass.md)
   * [XLNet](prt/xlnet.md)
   * [NLP这两年：15个预训练模型对比分析与剖析](prt/nlp-zhe-liang-nian-15-ge-yu-xun-lian-mo-xing-dui-bi-fen-xi-yu-pou-xi.md)
+* [深度文本匹配](dtm.md)
 
 ## Tensorflow
 
