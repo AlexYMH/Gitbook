@@ -22,6 +22,7 @@
   * [NLP这两年：15个预训练模型对比分析与剖析](prt/nlp-zhe-liang-nian-15-ge-yu-xun-lian-mo-xing-dui-bi-fen-xi-yu-pou-xi.md)
 * [神经信息检索](nir/README.md)
   * [深度文本匹配综述2017](nir/dtm.md)
+  * [《A Deep Look into Neural Ranking Models for Information Retrieval》](nir/a-deep-look-into-neural-ranking-models-for-information-retrieval.md)
 
 ## Tensorflow
 
