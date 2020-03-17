@@ -16,5 +16,5 @@ description: 总结DL4NLP比较重要的模型、框架、知识点。
 
 **该博客网站会持续更新，主要是将最新的通用的比较好的DL4NLP资料进行全面的总结！参考资料在文中都有链接~**
 
-![&#x7EFF;&#x8C37;&#x51FA;&#x4E45;](.gitbook/assets/lv-gu-1.jpg)
+![](.gitbook/assets/lv-gu-1.jpg)
 
