@@ -171,6 +171,8 @@ $$
 
 在非对称架构中有**三种策略**来解决query和document的异质性问题：
 
+![](../.gitbook/assets/taa.png)
+
 * Query split：基于大多数query都是基于keyword的假设。
   * DRMM\(2016\)
   * K-NRM\(2017\)
@@ -184,6 +186,8 @@ $$
   * CompAgg\(2017\)
 
 ### 4.2 表示型架构 vs 交互型架构
+
+![](../.gitbook/assets/ria.png)
 
 根据怎样抽取特征（只通过表示函数 $$\psi$$ 和 $$\phi$$ 抽取 or 只通过交互函数抽取 $$\eta$$ ）来进行相关性评估，可以NRM的模型架构分为表示型架构和交互型架构。
 
@@ -261,6 +265,8 @@ Many neural ranking models fall in this category, with either symmetric \(e.g., 
 * 不同类型的语言单元
 
 依据此可以将其分为两种多粒度型架构：
+
+![](../.gitbook/assets/sma.png)
 
 * 垂直多粒度型
   * MultiGranCNN\(2015\)
