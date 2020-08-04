@@ -66,6 +66,8 @@ description: 高效训练
          input_fn=lambda: my_input_fn(FILE_TRAIN, repeat_count=500, shuffle_count=256))
        ```
 
+       **具体实现方式如下：**
+
        * **PREDICT**
 
          When `model_fn` is called with `mode == ModeKeys.PREDICT`, the model function must return a `tf.estimator.EstimatorSpec` containing the following information:
